@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/15065555d/HelloWorld/_apis/build/status/lishing2019.Calc?branchName=master)](https://dev.azure.com/15065555d/HelloWorld/_build/latest?definitionId=1&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
